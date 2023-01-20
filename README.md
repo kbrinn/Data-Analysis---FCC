@@ -1,2 +1,2 @@
 # Data-Analysis---FCC
- Data Analysis projects from FCC
+ Boiler plate scripts for data analysis
